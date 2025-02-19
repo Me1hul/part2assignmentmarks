@@ -205,3 +205,10 @@ footer {
     padding: 10px;
     /* Add some padding */
 }
+
+
+
+.ds{
+    align-items: center;
+    font-size: small;
+}
